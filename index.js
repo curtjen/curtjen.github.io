@@ -21,6 +21,4 @@ const test = ({ exp, res, msg }) => {
   }
 };
 
-export default {
-  test
-};
+export default test;
