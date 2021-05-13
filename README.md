@@ -1,12 +1,10 @@
 # Curtis Jensen
 
-Maker | Software Engineer | Nerd | Dad
+_Maker, Software Engineer, Nerd, Dad_
 
 ## About me
 
-Over 10 years of professional information technology experience. Significant experience with ReactJS, JavaScript, semantic HTML, CSS, multiple JS frameworks, WordPress and more. Great communication skills, quick learner, certified Scrum Master, and eager to learn/expand his development skills. Open-Source proponent and web accessibility advocate.
-
-I have over 12 years of professional software engineering experience (front-end and full stack) with significant experience with ReactJS, JavaScript, semantic HTML, CSS/Sass, Perl, Python, Quality Assurance, Web Design, and more.
+I have over 10 years of professional software engineering experience (front-end and full stack) with significant experience with ReactJS, JavaScript, semantic HTML, CSS/Sass, Perl, Python, Quality Assurance, Web Design, and more.
 
 I am an Open-Source proponent and an advocate for web accessibility and web standards. I have led front-end on multiple teams on major initiatives, mentored dozens, influenced company cultures (in a positive way), and have established front-end coding standards and best practices for teams and organizations large and small.
 
@@ -22,7 +20,7 @@ In all truthfulness, this section is mostly here for me so I can quickly get to 
 
 #### Test JS
 
-This is a basic test library for making simple assertions in Javascript. It is a quick way to get some sort of testing chasis set up on things like Codepen, Repl.it, and JS Fiddle, without going through the extra steps to get Jest working.
+This is a basic test library for making simple assertions in Javascript. It is a quick way to get some sort of testing chassis set up on things like Codepen, Repl.it, and JS Fiddle, without going through the extra steps to get Jest working.
 
 ##### Usage
 
