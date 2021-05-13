@@ -43,19 +43,19 @@ test({ exp: 'Bob', res: 'Steve', msg: 'should match name' });
 
 ### Dev Tools/Utilities
 
-* Simple Server Mount: https://github.com/curtjen/simple-server-mount
-* My RC files: https://github.com/curtjen/.rcs
-* Prototype of a more generic of a tool for managing RC files: https://github.com/curtjen/clither
+* Simple Server Mount: [https://github.com/curtjen/simple-server-mount](https://github.com/curtjen/simple-server-mount)
+* My RC files: [https://github.com/curtjen/.rcs](https://github.com/curtjen/.rcs)
+* Prototype of a more generic of a tool for managing RC files: [https://github.com/curtjen/clither](https://github.com/curtjen/clither)
 
 #### Fun and Games
 
-* Deck builder game engine: https://github.com/curtjen/deck-berry-py
-* Wii Pi Camera Controller: https://github.com/curtjen/wii-pi-cam-controller
+* Deck builder game engine: [https://github.com/curtjen/deck-berry-py](https://github.com/curtjen/deck-berry-py)
+* Wii Pi Camera Controller: [https://github.com/curtjen/wii-pi-cam-controller](https://github.com/curtjen/wii-pi-cam-controller)
 
 ### Useful Pens
 
-* getDateRange(): https://codepen.io/curtjen/pen/rNMxGXX
-* formatTimestamp(): https://codepen.io/curtjen/pen/RwGrLYK
-* parseCopy(): https://codepen.io/curtjen/pen/jOMPBJx
-* Get download links on a page and click them (useful for sites with digital products that don't have a "download all" option): https://codepen.io/curtjen/pen/PozbXQN
-* Dynamic ordinal numbers in React: https://codepen.io/curtjen/pen/yLYzLRK
+* getDateRange(): [https://codepen.io/curtjen/pen/rNMxGXX](https://codepen.io/curtjen/pen/rNMxGXX)
+* formatTimestamp(): [https://codepen.io/curtjen/pen/RwGrLYK](https://codepen.io/curtjen/pen/RwGrLYK)
+* parseCopy(): [https://codepen.io/curtjen/pen/jOMPBJx](https://codepen.io/curtjen/pen/jOMPBJx)
+* Get download links on a page and click them (useful for sites with digital products that don't have a "download all" option): [https://codepen.io/curtjen/pen/PozbXQN](https://codepen.io/curtjen/pen/PozbXQN)
+* Dynamic ordinal numbers in React: [https://codepen.io/curtjen/pen/yLYzLRK](https://codepen.io/curtjen/pen/yLYzLRK)
